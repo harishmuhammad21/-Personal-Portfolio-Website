@@ -42,6 +42,5 @@ It’s a single-page responsive website where I introduce myself, highlight my s
 -  *GitHub username:harishmuhammad21
 - 
   This is the output URL for the website:file:///C:/Users/Harish%20Muhammad/Desktop/New%20folder/index.html
----
 
 ✨ Thanks for checking out my project!  
